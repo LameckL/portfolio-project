@@ -29,6 +29,10 @@ Setup Instructions:
    - No additional setup required for the frontend component.
    - Simply open the index.html file in a web browser to access the game.
 
+Contributors:
+- Nandi Buwa
+- Lameck Kipruto
+
 Contributing:
 - Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on GitHub.
 
